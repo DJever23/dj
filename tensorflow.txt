@@ -1,0 +1,5 @@
+tensorflow current name = tf
+mainly commands:
+source activate tf            #激活tensorflow环境
+source deactivate tf          #退出tensorflow环境
+conda remove --name tf --all  #删除tf环境（全部删除）
